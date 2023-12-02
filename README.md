@@ -12,8 +12,8 @@
 <h2>Contact me</h2>
 <p>If you want to get in touch with me, you can find me on:</p>
 <ul>
+  <li>Telegram: <a href="https://t.me/akbarjorayev_AJ">Telegram</a>📲</li>
   <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com">akbarjonjorayev001@gmail.com</a>📧</li>
-  <li>Email: <a href="https://t.me/akbarjorayev_AJ">Telegram</a>📲</li>
 </ul>
 
 <hr>
