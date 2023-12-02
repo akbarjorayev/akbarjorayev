@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✌️
 <h1>About me</h1>
 <ul>
   <li>Software engineer</li>
