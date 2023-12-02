@@ -5,7 +5,7 @@
 <ul>
   <li>Software engineer 💻</li>
   <li>Studying Computer Science, Physics and Mathematics 📚</li>
-  <li>Working on various projects using js, css and html 🌐</li>
+  <li>Working on various projects using JS, CSS and HTML 🌐</li>
   <li>Future employer at Google 🚀</li>
 </ul>
 
