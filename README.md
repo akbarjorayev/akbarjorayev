@@ -1,6 +1,7 @@
 ### Hi there ✌️
 
-<h2>It's Akbar Jorayev</h2>
+### It's Akbar Jorayev
+<hr>
 
 <h2>About me</h2>
 <ul>
