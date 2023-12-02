@@ -13,7 +13,7 @@
 <p>If you want to get in touch with me, you can find me on:</p>
 <ul>
   <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com">akbarjonjorayev001@gmail.com</a>📧</li>
-  <li>Social media</li>
+  <li>Social media:</li>
   <a href="https://t.me/akbarjorayev_AJ">
   <img src="https://th.bing.com/th/id/R.958376b3b0efd5ae292c055469730256?rik=fsnQbKRKQy4Q8A&pid=ImgRaw&r=0" width="25" height="25">
   </a>
