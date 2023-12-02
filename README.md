@@ -1,6 +1,4 @@
-### Hi there ✌️
-
-### It's Akbar Jorayev
+### Hi there, It's Akbar Jorayev ✌️
 <hr>
 
 <h2>About me</h2>
