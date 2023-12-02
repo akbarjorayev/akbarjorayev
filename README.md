@@ -1,7 +1,7 @@
 ### Hi there, It's Akbar Jorayev ✌️
 <hr>
 
-<h2>About me</h2>
+<h2><b>About me</b></h2>
 <ul>
   <li>Software engineer 💻</li>
   <li>Studying Computer Science, Physics and Mathematics 📚</li>
@@ -9,7 +9,7 @@
   <li>Future employer at Google 🚀</li>
 </ul>
 
-<h2>Contact me</h2>
+<h2><b>Contact me</b></h2>
 <p>If you want to get in touch with me, you can find me on:</p>
 <ul>
   <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com">akbarjonjorayev001@gmail.com</a>📧</li>
@@ -20,8 +20,8 @@
 </ul>
 
 <div float="left">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev001" width="300">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" width="300">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev001" height="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" height="300">
 </div>
 
 <img src="https://th.bing.com/th/id/R.44f9f032b895ab21986f14573e90efac?rik=ica9i%2fkVAZ9seQ&riu=http%3a%2f%2fmetaporky.site%2fwp-content%2fuploads%2f2022%2f10%2fbm-e1667057393679.png&ehk=B7sbvFIACVqKmFWMFyi40Qk0f8pj5MAaZo9XCLCo5U0%3d&risl=&pid=ImgRaw&r=0" width="300">
