@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" height="150">
 </div>
 
-
+<a href="https://www.buymeacoffee.com/akbarjorayev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=akbarjorayev&button_colour=6f4e37&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 
 
