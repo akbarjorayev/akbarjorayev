@@ -20,7 +20,7 @@
 </ul>
 
 <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev001">
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev001)](https://github.com/madushadhanushka/github-readme)
+<img src="https://leetcode.com/akbarjonjorayev001/">
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact">
