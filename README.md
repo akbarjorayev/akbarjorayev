@@ -1,3 +1,11 @@
+<style>
+  li {
+    display: flex;
+    align-items: center;
+}
+
+</style>
+
 ### Hi there, It's Akbar Jorayev ✌️
 <hr>
 
