@@ -24,9 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" height="150">
 </div>
 
-<img src="https://www.buymeacoffee.com/akbarjorayev">
-<a href="https://www.buymeacoffee.com/akbarjorayev" target="_blank"><img src="https://user-images.githubusercontent.com/12345678/1234567890/abcdefg.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 
 
 
