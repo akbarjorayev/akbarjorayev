@@ -12,9 +12,9 @@
 <h2><b>Contact me</b></h2>
 <p>If you want to get in touch with me, you can find me on:</p>
 <ul>
-  <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com">akbarjonjorayev001@gmail.com</a>📧</li>
+  <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com" target="_blank">akbarjonjorayev001@gmail.com</a>📧</li>
   <li>Social media:</li>
-  <a href="https://t.me/akbarjorayev_AJ">
+  <a href="https://t.me/akbarjorayev_AJ" target="_blank">
   <img src="https://th.bing.com/th/id/R.958376b3b0efd5ae292c055469730256?rik=fsnQbKRKQy4Q8A&pid=ImgRaw&r=0" width="30" height="30">
   </a>
 </ul>
@@ -25,6 +25,8 @@
 </div>
 
 <img src="https://www.buymeacoffee.com/akbarjorayev">
+<a href="https://www.buymeacoffee.com/akbarjorayev" target="_blank"><img src="https://user-images.githubusercontent.com/12345678/1234567890/abcdefg.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 
 
