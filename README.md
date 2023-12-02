@@ -1,4 +1,7 @@
 ### Hi there ✌️
+
+<h2>It's Akbar Jorayev</h2>
+
 <h1>About me</h1>
 <ul>
   <li>Software engineer 💻</li>
