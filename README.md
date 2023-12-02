@@ -12,7 +12,7 @@
 <h2>Contact me</h2>
 <p>If you want to get in touch with me, you can find me on:</p>
 <ul>
-  <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com">akbarjonjorayev001@gmail.com 📧</a></li>
+  <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com">akbarjonjorayev001@gmail.com</a>📧</li>
 </ul>
 
 <hr>
