@@ -1,5 +1,8 @@
 ### Hi there 👋
 <h1>About me</h1>
+<ul>
+  <li>Software engineer</li>
+</ul>
 
 <!--
 **akbarjonjorayev/akbarjonjorayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
