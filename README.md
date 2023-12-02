@@ -19,7 +19,7 @@
   </a>
 </ul>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev001)](https://github.com/madushadhanushka/github-readme)
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact">
