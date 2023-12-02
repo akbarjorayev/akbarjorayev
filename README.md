@@ -24,7 +24,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" height="150">
 </div>
 
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=akbarjorayev&button_colour=6f4e37&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00)](https://www.buymeacoffee.com/akbarjorayev)
+<a href="https://www.buymeacoffee.com/akbarjorayev" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=akbarjorayev&button_colour=6f4e37&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
 
 
 
