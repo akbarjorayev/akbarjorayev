@@ -20,7 +20,7 @@
 </ul>
 
 <div float="left">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev001" height="150">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" height="150">
 </div>
 
