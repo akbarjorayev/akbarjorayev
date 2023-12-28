@@ -9,7 +9,7 @@
   <li>Working on various projects using JS, CSS and HTML 🌐</li>
   <li>Future employer at Google 🚀</li>
 </ul>
-<p>My CV: <a href="https://docs.google.com/viewer?url=https://github.com/akbarjonjorayev/akbarjonjorayev/raw/main/akbar/CV.pdf" download="Akbar_CV.pdf" target="_blank">CV.pdf</a></p>
+<p>My CV: [view](https://drive.google.com/file/d/1QG9uKCVt2NiIf0JnUAo1CU4xuZeP2UuK/view)</p>
 
 <h2><b>Contact me</b></h2>
 <p>If you want to get in touch with me, you can find me on:</p>
