@@ -3,13 +3,14 @@
 <hr>
 
 <h2><b>About me</b></h2>
+<p><b>My CV:</b> <a href="https://drive.google.com/u/0/uc?id=1QG9uKCVt2NiIf0JnUAo1CU4xuZeP2UuK&export=download" target="_blank">download</a>/<a href="https://drive.google.com/file/d/1QG9uKCVt2NiIf0JnUAo1CU4xuZeP2UuK/view" target="_blank">view</a></p>
+
 <ul>
   <li>Software engineer 💻</li>
   <li>Studying Computer Science, Physics and Mathematics 📚</li>
   <li>Working on various projects using JS, CSS and HTML 🌐</li>
   <li>Future employer at Google 🚀</li>
 </ul>
-<p>My CV: <a href="https://drive.google.com/u/0/uc?id=1QG9uKCVt2NiIf0JnUAo1CU4xuZeP2UuK&export=download" target="_blank">download</a>/<a href="https://drive.google.com/file/d/1QG9uKCVt2NiIf0JnUAo1CU4xuZeP2UuK/view" target="_blank">view</a></p>
 
 <h2><b>Contact me</b></h2>
 <p>If you want to get in touch with me, you can find me on:</p>
