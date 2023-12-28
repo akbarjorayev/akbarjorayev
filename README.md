@@ -9,8 +9,7 @@
   <li>Working on various projects using JS, CSS and HTML 🌐</li>
   <li>Future employer at Google 🚀</li>
 </ul>
-<p>My CV: <a href="./akbar/CV.pdf" download="./akbar/CV.pdf" target="_blank">CV.pdf</a></p>
-
+<p>My CV: <a href="https://docs.google.com/viewer?url=https://github.com/akbarjonjorayev/akbarjonjorayev/raw/main/akbar/CV.pdf" download="Akbar_CV.pdf" target="_blank">CV.pdf</a></p>
 
 <h2><b>Contact me</b></h2>
 <p>If you want to get in touch with me, you can find me on:</p>
@@ -26,8 +25,6 @@
   <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" height="150">
 </div>
-
-[Click to view the PDF](./akbar/CV.pdf)
 
 <!--
 **akbarjonjorayev/akbarjonjorayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
