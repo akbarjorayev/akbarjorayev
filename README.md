@@ -1,4 +1,5 @@
 ### Hi there, It's Akbar Jorayev ✌️
+
 <hr>
 
 <h2><b>About me</b></h2>
@@ -15,7 +16,7 @@
   <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com" target="_blank">akbarjonjorayev001@gmail.com</a>📧</li>
   <li>Social media:</li>
   <a href="https://t.me/akbarjorayev_AJ" target="_blank">
-  <img src="https://th.bing.com/th/id/R.958376b3b0efd5ae292c055469730256?rik=fsnQbKRKQy4Q8A&pid=ImgRaw&r=0" width="30" height="30">
+  <img src="https://th.bing.com/th/id/R.958376b3b0efd5ae292c055469730256?rik=fsnQbKRKQy4Q8A&pid=ImgRaw&r=0" width="40" height="40">
   </a>
 </ul>
 
@@ -24,22 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" height="150">
 </div>
 
-<!--
-<a href="https://www.buymeacoffee.com/akbarjorayev" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=akbarjorayev&button_colour=6f4e37&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" />
-</a>
--->
-
-
-
-
-
-
-
-
-
-
-
+[Click to view the PDF](./akbar/CV.pdf)
 
 <!--
 **akbarjonjorayev/akbarjonjorayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
