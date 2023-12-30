@@ -23,12 +23,12 @@
 </ul>
 
 <div float="left">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjonjorayev&layout=compact" height="150">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjorayev" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjorayev&layout=compact" height="150">
 </div>
 
 <!--
-**akbarjonjorayev/akbarjonjorayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akbarjorayev/akbarjorayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
