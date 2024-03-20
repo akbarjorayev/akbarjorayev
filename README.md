@@ -18,7 +18,10 @@
   <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com" target="_blank">akbarjonjorayev001@gmail.com</a>📧</li>
   <li>Social media:</li>
   <a href="https://t.me/akbarjorayev_AJ" target="_blank">
-  <img src="https://th.bing.com/th/id/R.958376b3b0efd5ae292c055469730256?rik=fsnQbKRKQy4Q8A&pid=ImgRaw&r=0" width="40" height="40">
+    <img src="https://th.bing.com/th/id/R.958376b3b0efd5ae292c055469730256?rik=fsnQbKRKQy4Q8A&pid=ImgRaw&r=0" width="40" height="40">
+  </a>
+  <a href="https://www.instagram.com/akbarjorayevaj" target="_blank">
+    <img src="[https://th.bing.com/th/id/R.958376b3b0efd5ae292c055469730256?rik=fsnQbKRKQy4Q8A&pid=ImgRaw&r=0](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)" width="40" height="40">
   </a>
 </ul>
 
