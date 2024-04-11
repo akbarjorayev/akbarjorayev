@@ -28,6 +28,7 @@
 <div float="left">
   <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjorayev&layout=compact" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=akbarjorayev&show_icons=true&title_color=be15dc&icon_color=be15dc" />
 </div>
 
 <!--
