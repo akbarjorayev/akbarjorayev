@@ -26,10 +26,10 @@
 </ul>
 
 <div float="left">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev" height="150" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjorayev&layout=compact" height="150" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akbarjorayev&show_icons=true&title_color=294fd9&icon_color=294fd9" height="150" width="33%" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=akbarjonjorayev" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjorayev&layout=compact" height="150" />
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=akbarjorayev&show_icons=true&title_color=294fd9&icon_color=294fd9" />
 
 <!--
 **akbarjorayev/akbarjorayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
