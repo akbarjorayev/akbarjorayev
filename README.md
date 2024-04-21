@@ -3,7 +3,7 @@
 <hr>
 
 <h2><b>About me</b></h2>
-<p>🧑‍💼 <b>My CV:</b> <a href="https://drive.google.com/u/0/uc?id=1Fi1fcZPDQPHLYEax8-O2FK0WE4yNA_VE&export=download" target="_blank">download</a>/<a href="https://drive.google.com/file/d/1Fi1fcZPDQPHLYEax8-O2FK0WE4yNA_VE/view?usp=drivesdk" target="_blank">view</a></p>
+<p>🧑‍💼 <b>My CV:</b> <a href="https://drive.google.com/u/0/uc?id=1amIzCxzGsFqiqYoShJdflDwjWWJ&export=download" target="_blank">download</a>/<a href="https://drive.google.com/file/d/1amIzCxzGsFqiqYoShJdflDwjWWJ/view?usp=drivesdk" target="_blank">view</a></p>
 
 <ul>
   <li>Software engineer 💻</li>
