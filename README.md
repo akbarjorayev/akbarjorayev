@@ -8,7 +8,7 @@
 <ul>
   <li>Software engineer 💻</li>
   <li>Studying Computer Science, Physics and Mathematics 📚</li>
-  <li>Working on various projects using (HTML, CSS) (JS, NodeJS, React) 🌐</li>
+  <li>Working on various projects using (HTML, CSS) (JS, NodeJS, ReactJs) 🌐</li>
   <li>Man who doesn't like ; 🧠</li>
   <li>Future employer at Google 🚀</li>
 </ul>
