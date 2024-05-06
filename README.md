@@ -14,7 +14,6 @@
 </ul>
 
 <h2><b>Contact me</b></h2>
-<p>If you want to get in touch with me, you can find me on:</p>
 <ul>
   <li>Email: <a href="mailto:akbarjonjorayev001@gmail.com" target="_blank">akbarjonjorayev001@gmail.com</a>📧</li>
   <li>Social media:</li>
