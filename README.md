@@ -1,1 +1,1 @@
-#### Hi there this is my personal blog <a href="https://akbarjorayev.web.app" ref="noreferrer">akbarjorayev.web.app</a> / <a href="https://drive.google.com/file/d/1CqlncLJ2cIHVZHkr8tA-DIFMiqK6cS4h/view?usp=drive_link" target="_blank">cv</a>
+#### Hi there this is my personal blog <a href="https://akbarjorayev.web.app" ref="noreferrer">akbarjorayev.web.app</a> / <a href="https://drive.google.com/file/d/1JyUEKpoXzW8tOuy-pW59jnDZHdVLuRyq/view?usp=drivesdk" target="_blank">cv</a>
