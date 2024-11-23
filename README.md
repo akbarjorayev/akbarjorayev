@@ -1,1 +1,4 @@
-#### Hi there! This is my personal blog <a href="https://akbarswe.uz" ref="noreferrer">akbarswe.uz</a> / <a href="https://drive.google.com/file/d/1HmxJkbag7NTCdQKDNNYVZGdsmgiciGs1/view?usp=drivesdk" target="_blank">cv</a>
+#### Hi there! This is my personal blog 
+<a href="https://akbarswe.uz" ref="noreferrer">akbarswe.uz</a>
+/
+<a href="https://drive.google.com/file/d/1f82JYiTqQ9AFTmVkxclUO1F_iL2NIIYt/view?usp=sharing" target="_blank">cv</a>
